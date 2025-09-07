@@ -1,0 +1,1195 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Zance - Insurance Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homapage",
+            "screenshot": "screenshots\/homapage.jpg",
+            "source": "templates\/homapage.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/homapage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Services",
+            "screenshot": "screenshots\/single-services.jpg",
+            "source": "templates\/single-services.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/single-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Study",
+            "screenshot": "screenshots\/case-study.jpg",
+            "source": "templates\/case-study.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/case-study\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Details",
+            "screenshot": "screenshots\/case-details.jpg",
+            "source": "templates\/case-details.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/case-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Blog",
+            "screenshot": "screenshots\/our-blog.jpg",
+            "source": "templates\/our-blog.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/our-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Details",
+            "screenshot": "screenshots\/blog-details.jpg",
+            "source": "templates\/blog-details.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/blog-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Zance - Contact Form",
+            "screenshot": "screenshots\/zance-contact-form.jpg",
+            "source": "templates\/zance-contact-form.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/zance-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Zance - Subscribe Form",
+            "screenshot": "screenshots\/zance-subscribe-form.jpg",
+            "source": "templates\/zance-subscribe-form.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/zance-subscribe-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Zance - Footer",
+            "screenshot": "screenshots\/zance-footer.jpg",
+            "source": "templates\/zance-footer.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/zance-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Zance - Header",
+            "screenshot": "screenshots\/zance-header.jpg",
+            "source": "templates\/zance-header.json",
+            "preview_url": "https:\/\/hrkit.rometheme.pro\/zance\/template-kit\/zance-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "RomethemeKit For Elementor",
+            "version": "1.4.5",
+            "file": "rometheme-for-elementor\/RomeTheme.php",
+            "author": "Rometheme"
+        },
+        {
+            "name": "RomethemeForm",
+            "version": "1.1.7",
+            "file": "romethemeform\/rometheme-form.php",
+            "author": "Rometheme"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.23.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "photo-2-3.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-2-3-800x470.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                }
+            ],
+            "filesize": 129937,
+            "dimensions": [
+                1920,
+                1127
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-1-3.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-1-3-800x470.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                }
+            ],
+            "filesize": 163248,
+            "dimensions": [
+                1920,
+                1127
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "award-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/award-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                }
+            ],
+            "filesize": 104354,
+            "dimensions": [
+                300,
+                242
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-3-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-3-1-800x820.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 207186,
+            "dimensions": [
+                1420,
+                1456
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-5.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 152068,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-4.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-4-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 182629,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "mask.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/mask.png",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9625,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "photo-6.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 219029,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "background-1-5.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/background-1-5-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 112041,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "background-2.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/background-2-800x480.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 19544,
+            "dimensions": [
+                1920,
+                1153
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "admin.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/admin.png",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 209807,
+            "dimensions": [
+                560,
+                560
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-9-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-9-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 185424,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-10.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-10-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                }
+            ],
+            "filesize": 193118,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-8-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-8-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                }
+            ],
+            "filesize": 191306,
+            "dimensions": [
+                1536,
+                1024
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-11.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-11-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                }
+            ],
+            "filesize": 93194,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-12.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-12-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                }
+            ],
+            "filesize": 245284,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-13.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-13-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                }
+            ],
+            "filesize": 160108,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-16.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-16-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 120920,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-17.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-17-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 146437,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-14-2.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-14-2-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 107202,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "team-3.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/team-3-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 103572,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/team1-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 137589,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "team-2.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/team-2-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 100683,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "photo-7.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/photo-7-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                }
+            ],
+            "filesize": 56720,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "trustpilot.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/trustpilot.png",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 19123,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "google-ratting.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/google-ratting.png",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 11826,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "cta-2.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/07\/cta-2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homapage.json",
+                    "name": "Homapage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/case-study.json",
+                    "name": "Case Study"
+                },
+                {
+                    "source": "templates\/case-details.json",
+                    "name": "Case Details"
+                },
+                {
+                    "source": "templates\/our-blog.json",
+                    "name": "Our Blog"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 76073,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "team-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/team-1-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 100027,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "team-2-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/team-2-1-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 130523,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "team-3-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/team-3-1-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 92431,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "team-4.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/team-4-800x948.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 76463,
+            "dimensions": [
+                1420,
+                1683
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 7359,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9078,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8930,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 7919,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 5365,
+            "dimensions": [
+                300,
+                115
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "blog-3.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/blog-3-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 91075,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "testimonial-1.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/testimonial-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 8216,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "testimonial-3.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/testimonial-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 9674,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "testimonial-5.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/testimonial-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 7234,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "testimonial-4.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/testimonial-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 9433,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "testimonial-2.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/testimonial-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 10138,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "testimonial-6.jpg",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/testimonial-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 10079,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/BDGJYZUSPC"
+        },
+        {
+            "filename": "logo-zance-3.png",
+            "thumbnail_url": "http:\/\/hrkit.rometheme.pro\/zance\/wp-content\/uploads\/sites\/107\/2024\/08\/logo-zance-3.png",
+            "templates": [
+                {
+                    "source": "templates\/zance-footer.json",
+                    "name": "Zance - Footer"
+                },
+                {
+                    "source": "templates\/zance-header.json",
+                    "name": "Zance - Header"
+                }
+            ],
+            "filesize": 18294,
+            "dimensions": [
+                600,
+                153
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        }
+    ]
+}
